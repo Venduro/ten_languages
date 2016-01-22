@@ -1,0 +1,96 @@
+#topten {
+  text-align: right;
+  font-family: 'Titillium Web', sans-serif;
+  color: white;
+  text-shadow: 3px 3px black;
+}
+
+h2 {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#youshould {
+  text-align: right;
+  color: white;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 10px 0px 10px 0px;
+  background-color: #337ab7;
+}
+
+.row {
+  /*height: 100%;*/
+}
+
+.col-sm-12 {
+  /*background-color: grey;
+  border: 2px solid black;*/
+  padding: 20px;
+}
+
+img {
+  height: 15vw;
+  float: left;
+  margin-right: 10px;
+}
+
+.col-sm-8 {
+  /*background-color: grey;
+  border: 2px solid black;*/
+  padding: 20px;
+  /*height: 100%;*/
+}
+
+.col-sm-4 {
+  /*background-color: grey;
+  border: 2px solid black;*/
+  padding: 20px;
+}
+
+.col-sm-4 > img {
+  height: 10vw;
+  float: left;
+  margin-right: 10px;
+}
+
+.col-sm-6 {
+  /*background-color: grey;
+  border: 2px solid black;*/
+  padding: 20px;
+}
+
+.col-sm-6 > img {
+  height: 10vw;
+  float: left;
+  margin-right: 10px;
+}
+
+.btn {
+  float:right;
+}
+
+footer{
+  color: white;
+  padding: 10px;
+  margin-top: 5px;
+  text-align: center;
+  background-color: #337ab7;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/*Ruby page specific CSS*/
+#matsu {
+  float: right;
+  margin-left: 10px;
+}
+
+#signup {
+  display: flex;
+  justify-content: center;
+}
+
+.well {
+  /*width:;*/
+}
